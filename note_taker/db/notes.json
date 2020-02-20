@@ -1,33 +1,50 @@
 {
-  "notes":
-[
-  {
-    "title": "Test Title",
-    "text": "Test text"
-  },
-  {
-    "title": "My first note",
-    "text": " first text"
-  },
-  {
-    "title": "My second note",
-    "text": " second text"
-  },
-  {
-    "title": "My 3rd note",
-    "text": " 3rd text"
-  },
-  {
-    "title": "My 4th note",
-    "text": " 4th text"
-  },
-  {
-    "title": "My 5th note",
-    "text": " 5th text"
-  },
-  {
-    "title": "My 6th note",
-    "text": " 6th text"
-  }  
-]
+  "notes": [
+    {
+      "title": "Test Title",
+      "text": "Test text"
+    },
+    {
+      "title": "My first note",
+      "text": " first text"
+    },
+    {
+      "title": "My second note",
+      "text": " second text"
+    },
+    {
+      "title": "My 3rd note",
+      "text": " 3rd text"
+    },
+    {
+      "title": "My 4th note",
+      "text": " 4th text"
+    },
+    {
+      "title": "My 5th note",
+      "text": " 5th text"
+    },
+    {
+      "title": "My 6th note",
+      "text": " 6th text"
+    },
+    {
+      "name": [
+        "jui",
+        "jui"
+      ],
+      "country": "India"
+    },
+    {
+      "name": [
+        "jui",
+        "jui"
+      ],
+      "country": "India"
+    },
+    {
+      "name": "komal",
+      "country": "usa"
+    }
+  ]
 }
